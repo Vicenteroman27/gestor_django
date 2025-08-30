@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Visitar /proyectos/
 → Se hace una petición GET al servidor.
 → El servidor responde con el código 200 OK y entrega el listado de proyectos activos renderizado con lista.html.
@@ -25,3 +26,7 @@ Se ejecutan los comandos: python manage.py migrate y python manage.py collectsta
 DNS personalizado: proyectos.ejemplo.cl
 En el panel del dominio, se crea un registro CNAME que apunta a la URL pública de Render (por ejemplo: nombre-servicio.onrender.com).
 Si Render lo solicita, se agrega un registro TXT para verificar propiedad del dominio antes de habilitar HTTPS.
+=======
+# gestor_django
+"Un sistema de gestión de proyectos usando Django."
+>>>>>>> 23b8c9226060eefc6be372291b7b15ae409b2955
